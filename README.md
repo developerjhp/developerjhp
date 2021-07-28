@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 ### What I Like
 - 📺 Algorithm Solving
 - 🎺 Jazz
+- 🎸🎹 playing instrument
 <!-- <h3 align="center">🛠 Tech Stack👨🏻‍💻</h3>
 
 <p align="center">
