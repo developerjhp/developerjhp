@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 - 🌍 CODE STATES Student
 
 ### What I Like
-- 📺 Algorithm Solving
+- 💻 Algorithm Solving
 - 🎺 Jazz
 - 🎸🎹 playing an instrument
 <h3 > Tech Stack👨🏻‍💻</h3>
