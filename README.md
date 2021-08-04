@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 ### Experience
 - 🎓 Dankook University , Industrial Engineering 
 - 🩳 Starfield SPA Brand Deputy Manager
-- 🌍 CODE STATES Student
+- 🌍 42 Seoul La Piscine
+- 🌍 Code States
 
 ### What I Like
 - 💻 Algorithm Solving
