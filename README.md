@@ -34,6 +34,8 @@ You can click the Preview link to take a look at your changes.
 <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> -->
 
 
+[![developerjhp's 42 stats](https://badge42.herokuapp.com/api/stats/jinhyupa?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
 
 
  
