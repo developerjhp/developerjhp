@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ### Experience
 - 🎓 Dankook University , Industrial Engineering 
 - 🩳 Starfield SPA Brand Deputy Manager
-- 🏢 42Seoul La Piscine
+- 🏢 42Seoul La Piscine (21/09/06 ~ 21/10/01)
 <!-- - 🏬 Code States               -->
 
 ### What I Like
