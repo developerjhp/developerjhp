@@ -17,6 +17,9 @@ You can click the Preview link to take a look at your changes.
 - 🩳 Starfield SPA Brand Deputy Manager
 - 🏢 42Seoul La Piscine (21/09/06 ~ 21/10/01)
 - 🏪 42Seoul Cadet (21/11/08 ~ )
+
+[![developerjhp's 42 stats](https://badge42.herokuapp.com/api/stats/jinhyupa?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
 <!-- - 🏬 Code States               -->
 
 ### What I Like
@@ -31,8 +34,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-squaree&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"> 
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
 
-[![developerjhp's 42 stats](https://badge42.herokuapp.com/api/stats/jinhyupa?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-
+<!-- [![developerjhp's 42 stats](https://badge42.herokuapp.com/api/stats/jinhyupa?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+ -->
 
 
  
