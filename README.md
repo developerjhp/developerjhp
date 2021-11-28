@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ### Experience
 - 🎓 Dankook University , Industrial Engineering 
 - 🩳 Starfield SPA Brand Deputy Manager
-- 🏬 네이버 부스트코스 CS50 코칭스터디 2기
+- 🏬 네이버 부스트코스 CS50 코칭스터디 2기 (21/01/11 ~ 21/02/26)
 - 🏫 코드스테이츠 웹 풀스택  33기 (21/06/14 ~ 21/12/24)
 - 🏢 42Seoul La Piscine (21/09/06 ~ 21/10/01)
 - 🏪 42Seoul Cadet (21/11/08 ~ )
