@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# Portfolio 
-[![e](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/bae03824f7cd4ad492276db9a0c39365)
+<!-- # Portfolio 
+[![e](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/bae03824f7cd4ad492276db9a0c39365) -->
 
 
 ### Who Am I
