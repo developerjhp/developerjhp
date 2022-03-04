@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 - 🏪 42Seoul Cadet (21/11/08 ~ )
 - 🏤 원티드 프리온보딩 프론트엔드 (22/01/24 ~ )
 
-[![developerjhp's 42 stats](https://badge42.herokuapp.com/api/stats/jinhyupa?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+<!-- [![developerjhp's 42 stats](https://badge42.herokuapp.com/api/stats/jinhyupa?privacyEmail=true)](https://github.com/JaeSeoKim/badge42) -->
 
 <!-- - 🏬 Code States               -->
 
