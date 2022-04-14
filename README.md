@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 - 🏬 네이버 부스트코스 CS50 코칭스터디 2기 (21/01/11 ~ 21/02/26)
 - 🏫 코드스테이츠 웹 풀스택  33기 (21/06/14 ~ 21/12/24)
 - 🏢 42Seoul La Piscine (21/09/06 ~ 21/10/01)
-- 🏪 42Seoul Cadet (21/11/08 ~ )
+- 🏪 42Seoul Cadet (21/11/08 ~ 22/04/13)
 - 🏤 원티드 프리온보딩 프론트엔드 (22/01/24 ~ 22/03/09)
 
 <!-- [![developerjhp's 42 stats](https://badge42.herokuapp.com/api/stats/jinhyupa?privacyEmail=true)](https://github.com/JaeSeoKim/badge42) -->
