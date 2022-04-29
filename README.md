@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Who Am I
-- 🌱 I’m currently learning Node, React, Algorithm
+- 🌱 I’m currently learning React, NextJs, React-qeury
 - 🥇 I majored in Industrial Engineering
 - 🚅 My hometown is Dongtan in Korea
 
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 ### What I Like
 - 💻 Algorithm Solving
-- 🎺 Jazz
+- 💻 Mogakko
 - 🎸🎹 playing an instrument
 <h3 > Tech Stack👨🏻‍💻</h3>
 
